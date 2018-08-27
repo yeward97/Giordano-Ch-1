@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+first_pkg/__init__.py
+first_pkg/trial.py
+first_pkg.egg-info/PKG-INFO
+first_pkg.egg-info/SOURCES.txt
+first_pkg.egg-info/dependency_links.txt
+first_pkg.egg-info/requires.txt
+first_pkg.egg-info/top_level.txt

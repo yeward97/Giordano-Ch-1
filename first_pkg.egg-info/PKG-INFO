@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: first-pkg
+Version: 1.0.0
+Summary: a brief description of your package
+Home-page: https://github.com/yeward97/Giordano-Ch-1
+Author: Yvonne Ward
+Author-email: yeward97@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - planning
+Classifier: Intended Audience :: Science/Research
+Classifier: Natural Language :: English
+Classifier: Operating System :: Ubuntu
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
