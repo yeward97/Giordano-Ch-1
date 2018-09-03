@@ -6,7 +6,9 @@ Home-page: https://github.com/yeward97/Giordano-Ch-1
 Author: Yvonne Ward
 Author-email: yeward97@gmail.com
 License: MIT
-Description: UNKNOWN
+Description: [![Build Status](https://travis-ci.org/yeward97/Giordano-Ch-1.svg?branch=master)](https://travis-ci.org/yeward97/Giordano-Ch-1)
+        [![codecov](https://codecov.io/gh/yeward97/Giordano-Ch-1/branch/master/graph/badge.svg)](https://codecov.io/gh/yeward97/Giordano-Ch-1)
+        
 Platform: UNKNOWN
 Classifier: Development Status :: 1 - planning
 Classifier: Intended Audience :: Science/Research
